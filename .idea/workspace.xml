@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6390bd21-8f34-4b5c-abd5-4501f5c09e28" name="Changes" comment="conversor 1">
+    <list default="true" id="6390bd21-8f34-4b5c-abd5-4501f5c09e28" name="Changes" comment="mejora de divisas a convertir y sistema">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Currency Converter App.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Currency Converter App.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CurrencyConverterApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CurrencyConverterApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +35,9 @@
     "accountId": "3c4c7306-50c2-46c9-9c92-7d645e5e9fe0"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -50,7 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.CurrencyConverterApp.executor": "Debug",
+    "Application.CurrencyConverterApp.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "true",
@@ -91,7 +92,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735153126047</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="conversor 1">
+      <option name="closed" value="true" />
+      <created>1735158103217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735158103217</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mejora de divisas a convertir y sistema">
+      <option name="closed" value="true" />
+      <created>1735158150647</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735158150647</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="conversor 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="conversor 1" />
+    <MESSAGE value="mejora de divisas a convertir y sistema" />
+    <option name="LAST_COMMIT_MESSAGE" value="mejora de divisas a convertir y sistema" />
   </component>
 </project>

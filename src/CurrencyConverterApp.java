@@ -24,7 +24,7 @@ public class CurrencyConverterApp {
         boolean exit = false;
 
         while (!exit) {
-            clearScreen();
+            //clearScreen();
             System.out.println("--- Conversor de Divisas ---");
             System.out.println("1. Convertir Divisas");
             System.out.println("2. Ver Historial de Conversiones");
@@ -54,7 +54,7 @@ public class CurrencyConverterApp {
 
     // Método para realizar la conversión de divisas
     private static void performConversion(Scanner scanner, Map<Integer, String> currencies) {
-        clearScreen();
+        //clearScreen();
         System.out.println("--- Lista de Divisas ---");
         currencies.forEach((key, value) -> System.out.println(key + ". " + value));
 
@@ -123,7 +123,7 @@ public class CurrencyConverterApp {
 
     // Método para mostrar el historial de conversiones
     private static void displayHistory() {
-        clearScreen();
+        //clearScreen();
         System.out.println("--- Historial de Conversiones ---");
         if (conversionHistory.isEmpty()) {
             System.out.println("No hay conversiones registradas.");
