@@ -19,7 +19,7 @@ Esta es una aplicación de consola desarrollada en Java que permite realizar con
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <URL del repositorio>
+   git clone https://github.com/JFRH12/Currency-Converter-App.git
    ```
 2. **Navegar al directorio del proyecto:**
    ```bash
