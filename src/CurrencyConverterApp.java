@@ -150,7 +150,7 @@ public class CurrencyConverterApp {
     }
 
     // Método para limpiar la pantalla
-    private static void clearScreen() {
+    /*private static void clearScreen() {
         try {
             if (System.getProperty("os.name").contains("Windows")) {
                 new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().waitFor();
@@ -162,6 +162,7 @@ public class CurrencyConverterApp {
             System.out.println("No se pudo limpiar la pantalla.");
         }
     }
+*/
 
     // Método para pausar la ejecución
     private static void pause() {
