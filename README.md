@@ -7,7 +7,7 @@ Esta es una aplicación de consola desarrollada en Java que permite realizar con
 1. **Conversión de divisas:** El usuario puede seleccionar las divisas de origen y destino desde una lista numerada y convertir cualquier cantidad.
 2. **Historial de conversiones:** Se almacena un historial detallado de las conversiones realizadas, incluyendo la cantidad, las divisas y la marca de tiempo.
 3. **Menú interactivo:** El usuario puede elegir entre realizar una conversión, ver el historial o salir del programa.
-4. **Pantalla limpia:** Después de cada acción, la pantalla se limpia para mantener una interfaz ordenada.
+
 
 ## Requisitos
 
