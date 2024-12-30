@@ -94,7 +94,7 @@ Ingrese la cantidad a convertir: 100
 
 La aplicación utiliza la clave de API proporcionada para acceder a las tasas de cambio. En el archivo `CurrencyConverterApp.java`, asegúrese de que la clave de API sea válida:
 ```java
-private static final String API_KEY = "031505551e6c410197a24f04";
+private static final String API_KEY = "API_KEY";
 ```
 
 Si desea cambiar la clave de API, simplemente reemplace el valor de `API_KEY` por su propia clave.
